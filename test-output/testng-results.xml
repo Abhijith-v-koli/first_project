@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-09T16:56:10 IST" name="Suite" finished-at="2024-05-09T16:56:25 IST" duration-ms="14748">
+    <groups>
+    </groups>
+    <test started-at="2024-05-09T16:56:10 IST" name="Test1" finished-at="2024-05-09T16:56:19 IST" duration-ms="8261">
+      <class name="testcase.test_case_one">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcase.test_case_one@14028087]" started-at="2024-05-09T16:56:10 IST" name="setup" finished-at="2024-05-09T16:56:18 IST" duration-ms="7282" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="page()[pri:1, instance:testcase.test_case_one@14028087]" started-at="2024-05-09T16:56:18 IST" name="page" finished-at="2024-05-09T16:56:19 IST" duration-ms="758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcase.test_case_one@14028087]" started-at="2024-05-09T16:56:19 IST" name="teardown" finished-at="2024-05-09T16:56:19 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcase.test_case_one -->
+    </test> <!-- Test1 -->
+    <test started-at="2024-05-09T16:56:10 IST" name="Test" finished-at="2024-05-09T16:56:25 IST" duration-ms="14746">
+      <class name="testcase.test_case_one">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcase.test_case_one@235ecd9f]" started-at="2024-05-09T16:56:10 IST" name="setup" finished-at="2024-05-09T16:56:23 IST" duration-ms="12025" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FirefoxDriver]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="page()[pri:1, instance:testcase.test_case_one@235ecd9f]" started-at="2024-05-09T16:56:23 IST" name="page" finished-at="2024-05-09T16:56:24 IST" duration-ms="1834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcase.test_case_one@235ecd9f]" started-at="2024-05-09T16:56:24 IST" name="teardown" finished-at="2024-05-09T16:56:25 IST" duration-ms="859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcase.test_case_one -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

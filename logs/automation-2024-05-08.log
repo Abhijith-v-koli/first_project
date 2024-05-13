@@ -1,0 +1,61 @@
+15:45:04.902 [main] INFO  testcase.test_case_one - WebDriver initialized
+15:45:08.671 [main] INFO  testcase.test_case_one - *******starting*
+15:45:09.224 [main] INFO  testcase.test_case_one - ******entering username ********
+15:45:57.779 [main] INFO  testcase.test_case_one - WebDriver initialized
+15:46:01.460 [main] INFO  testcase.test_case_one - *******starting*
+15:46:01.872 [main] INFO  testcase.test_case_one - ******entering username ********
+15:46:01.963 [main] INFO  testcase.test_case_one - ******entering password********
+15:46:03.173 [main] INFO  testcase.test_case_one - ******clicking button********
+15:55:59.495 [main] INFO  testcase.test_case_one - WebDriver initialized
+15:56:04.212 [main] INFO  testcase.test_case_one - *******starting*
+15:56:04.654 [main] INFO  testcase.test_case_one - ******entering username ********
+15:56:04.728 [main] INFO  testcase.test_case_one - ******entering password********
+15:56:06.012 [main] INFO  testcase.test_case_one - ******clicking button********
+15:56:27.723 [main] INFO  testcase.test_case_one - WebDriver initialized
+15:57:07.103 [main] INFO  testcase.test_case_one - WebDriver initialized
+15:58:09.200 [main] INFO  testcase.test_case_one - WebDriver initialized
+15:59:29.002 [main] INFO  testcase.test_case_one - WebDriver initialized
+15:59:55.408 [main] INFO  testcase.test_case_one - WebDriver initialized
+16:00:16.196 [main] INFO  testcase.test_case_one - WebDriver initialized
+16:00:21.918 [main] INFO  testcase.test_case_one - *******starting*
+16:00:22.316 [main] INFO  testcase.test_case_one - ******entering username ********
+16:00:22.342 [main] INFO  testcase.test_case_one - ******entering password********
+16:00:23.599 [main] INFO  testcase.test_case_one - ******clicking button********
+16:03:21.937 [main] INFO  testcase.test_case_one - WebDriver initialized
+16:03:27.269 [main] INFO  testcase.test_case_one - *******starting*
+16:03:27.685 [main] INFO  testcase.test_case_one - ******entering username ********
+16:03:27.711 [main] INFO  testcase.test_case_one - ******entering password********
+16:03:28.962 [main] INFO  testcase.test_case_one - ******clicking button********
+16:03:29.855 [main] INFO  testcase.test_case_one - WebDriver initialized
+16:03:33.451 [main] INFO  testcase.test_case_one - *******starting*
+16:03:33.869 [main] INFO  testcase.test_case_one - ******entering username ********
+16:03:33.943 [main] INFO  testcase.test_case_one - ******entering password********
+16:03:34.035 [main] INFO  testcase.test_case_one - ******clicking button********
+16:06:42.701 [TestNG-test-Test-1] INFO  testcase.test_case_one - WebDriver initialized
+16:06:48.070 [TestNG-test-Test-1] INFO  testcase.test_case_one - *******starting*
+16:06:48.465 [TestNG-test-Test-1] INFO  testcase.test_case_one - ******entering username ********
+16:06:48.487 [TestNG-test-Test-1] INFO  testcase.test_case_one - ******entering password********
+16:06:49.781 [TestNG-test-Test-1] INFO  testcase.test_case_one - ******clicking button********
+16:06:50.589 [TestNG-test-Test1-1] INFO  testcase.test_case_one - WebDriver initialized
+16:06:53.928 [TestNG-test-Test1-1] INFO  testcase.test_case_one - *******starting*
+16:06:54.357 [TestNG-test-Test1-1] INFO  testcase.test_case_one - ******entering username ********
+16:06:54.433 [TestNG-test-Test1-1] INFO  testcase.test_case_one - ******entering password********
+16:06:55.633 [TestNG-test-Test1-1] INFO  testcase.test_case_one - ******clicking button********
+16:07:32.205 [TestNG-tests-2] INFO  testcase.test_case_one - WebDriver initialized
+16:07:32.231 [TestNG-tests-1] INFO  testcase.test_case_one - WebDriver initialized
+16:07:36.153 [TestNG-tests-2] INFO  testcase.test_case_one - *******starting*
+16:07:36.633 [TestNG-tests-2] INFO  testcase.test_case_one - ******entering username ********
+16:07:36.726 [TestNG-tests-2] INFO  testcase.test_case_one - ******entering password********
+16:07:38.237 [TestNG-tests-2] INFO  testcase.test_case_one - ******clicking button********
+16:07:38.529 [TestNG-tests-1] INFO  testcase.test_case_one - *******starting*
+16:07:38.956 [TestNG-tests-1] INFO  testcase.test_case_one - ******entering username ********
+16:07:38.971 [TestNG-tests-1] INFO  testcase.test_case_one - ******entering password********
+16:07:40.221 [TestNG-tests-1] INFO  testcase.test_case_one - ******clicking button********
+16:12:40.100 [main] INFO  testcase.test_case_one - WebDriver initialized
+16:12:45.661 [main] INFO  testcase.test_case_one - *******starting*
+16:12:46.081 [main] INFO  testcase.test_case_one - ******entering username ********
+16:12:46.103 [main] INFO  testcase.test_case_one - ******entering password********
+16:12:47.474 [main] INFO  testcase.test_case_one - ******clicking button********
+16:12:48.293 [main] INFO  testcase.test_case_one - WebDriver initialized
+16:12:51.507 [main] INFO  testcase.test_case_one - *******starting*
+16:12:51.908 [main] INFO  testcase.test_case_one - ******entering username ********
